@@ -1,0 +1,11 @@
+asgiref==3.8.1
+Django==4.2.20
+django-simpleui==2.1
+django-tinymce==4.1.0
+djangorestframework==3.16.0
+mysqlclient==2.2.7
+PyMySQL==1.1.1
+sqlparse==0.5.3
+typing_extensions==4.13.0
+tzdata
+wincertstore
